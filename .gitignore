@@ -1,0 +1,2 @@
+echo -e "*.iml\n.gradle\n/local.properties\n/.idea\n/build\nmy-release-key.jks" > .gitignore
+
